@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/Logo.png
+  branding: assets/images/Meta Logo.png
+  branding_mode: bottom
+  branding_bottom_padding: 16
+  color_dark: "#FFFFFF"
+  image_dark: assets/images/Logo.png
+  branding_dark: assets/images/Meta Logo.png
+
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/Logo.png
+    image_dark: assets/images/Logo.png
+    branding: assets/images/Meta Logo.png
+    branding_bottom_padding: 36
+  web: false
